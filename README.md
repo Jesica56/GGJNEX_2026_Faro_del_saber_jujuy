@@ -1,3 +1,9 @@
+<p>
+  <img src="GGJNEX_2026_Faro_del_saber_jujuy/logos/inicio.jpg" alt="logo">
+</p>
+
+
+
 # 🚀 Global Game Jam Next 2026 - Faro del Saber
 ### 📍 Sede: Jujuy, Argentina
 
