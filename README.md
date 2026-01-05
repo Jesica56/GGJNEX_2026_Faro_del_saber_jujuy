@@ -61,5 +61,5 @@ No necesitas programar. Tu equipo funcionará como una **Agencia de Diseño Prof
 <p align="center">
   <i>"Diseñar un juego es diseñar una forma de ver el mundo."</i><br>
   <strong>Faro del Saber - Jujuy | 2026</strong>
- <img src="https://github.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/blob/main/logos/inicio.jpg" alt="logo">
+ <img src="https://github.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/blob/main/fin.png" alt="logo">
 </p>
