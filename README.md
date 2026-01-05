@@ -57,8 +57,8 @@ No necesitas programar. Tu equipo funcionará como una **Agencia de Diseño Prof
 4. **¡Empieza a diseñar!**
 
 ---
-<img src="https://raw.githubusercontent.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/main/fin.svg"
-     alt="globo animado"
+<img src="https://github.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/blob/main/logos/globo_animado.gif"
+      alt="globo animado"
      width="160"
      align="right"
      style="margin-left:16px;">
