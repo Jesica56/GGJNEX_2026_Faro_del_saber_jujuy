@@ -1,13 +1,11 @@
 <p>
-  <img src="GGJNEX_2026_Faro_del_saber_jujuy/logos/inicio.jpg" alt="logo">
+  <img src="https://github.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/blob/main/logos/inicio.jpg" alt="logo">
 </p>
-
-
 
 # 🚀 Global Game Jam Next 2026 - Faro del Saber
 ### 📍 Sede: Jujuy, Argentina
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/EDAD-10--18_AÑOS-blueviolet?style=for-the-badge" alt="Edad">
   <img src="https://img.shields.io/badge/MODALIDAD-DISEÑO_CONCEPTUAL-cyan?style=for-the-badge" alt="Modalidad">
   <img src="https://img.shields.io/badge/LOCALIZACIÓN-JUJUY-green?style=for-the-badge" alt="Sede">
