@@ -1,4 +1,4 @@
-<p>
+<p align="center" style="padding:0; margin:0;">
   <img src="https://github.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/blob/main/logos/inicio.jpg" alt="logo">
 </p>
 
