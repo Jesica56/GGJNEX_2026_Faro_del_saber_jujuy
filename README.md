@@ -45,6 +45,7 @@ No necesitas programar. Tu equipo funcionará como una **Agencia de Diseño Prof
 
 ## 📂 Estructura del Repositorio
 * [`/docs`](./docs): Guías para padres, reglamentos y manual de roles.
+* [`/logo`](./logo): Imagenes de logos
 * [`/kits`](./kits): Listado de los 45 títulos y bases de historias.
 
 
