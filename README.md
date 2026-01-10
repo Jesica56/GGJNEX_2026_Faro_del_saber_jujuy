@@ -1,5 +1,5 @@
 <p align="center" style="padding:0; margin:0;">
-  <img src="https://github.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/blob/main/logos/inicio.jpg" alt="logo">
+  <img src="https://raw.githubusercontent.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/main/logos/inicio.jpg" alt="logo" width="100%">
 </p>
 
 # 🚀 Global Game Jam Next 2026 - Faro del Saber
@@ -20,6 +20,18 @@ Nuestra misión es diseñar conceptos de videojuegos que utilicen **leyendas arg
 
 ---
 
+## 📂 Acceso al Material Educativo
+Hemos preparado guías visuales y herramientas interactivas para facilitar tu trabajo:
+
+| Sección | Descripción | Enlace |
+| :--- | :--- | :--- |
+| **🤖 Guía de IA** | Cómo usar la IA como asistente creativo. | [👉 Ver Guía](./docs/como-usar-ia.md) |
+| **📝 Ficha de Trabajo** | Prompts de diseño narrativo y visual. | [👉 Ver Ficha](./docs/ficha-de-trabajo.md) |
+| **🎨 Arte Visual** | Proceso de creación de personajes y entornos. | [👉 Ver Arte](./docs/diseño-y-arte-visual.md) |
+| **📸 Comunidad** | Fotos de la experiencia en el Punto Digital. | [👉 Ver Galería](./docs/comunidad.md) |
+
+---
+
 ## 🎨 Temas y Desafíos G4C 2026
 Cada equipo de 4 integrantes elegirá uno de los siguientes pilares:
 
@@ -34,35 +46,34 @@ Cada equipo de 4 integrantes elegirá uno de los siguientes pilares:
 ## 🛠️ Metodología: "De la Semilla al Mundo"
 No necesitas programar. Tu equipo funcionará como una **Agencia de Diseño Profesional**:
 
-1.  **Kits de Inicio:** Facilitamos títulos y bases narrativas para que no empieces de cero.
-2.  **Roles:**
+1. **Kits de Inicio:** Facilitamos títulos y bases narrativas en la carpeta `/kits`.
+2. **Roles:**
     * **Líder de Diseño:** Crea las reglas y la lógica del juego.
     * **Líder Narrativo:** Escribe el guion y los diálogos.
     * **Líder de Arte:** Diseña los personajes y escenarios.
-3.  **Entregable:** Una **Ficha de Proyecto** completa con el prototipo visual de tu idea.
 
 ---
 
-## 📂 Estructura del Repositorio
-* [`/docs`](./docs): Guías para padres, reglamentos y manual de roles.
-* [`/logo`](./logo): Imagenes de logos
-* [`/kits`](./kits): Listado de los 45 títulos y bases de historias.
+## 🌟 Comunidad y Eventos
+No solo creamos juegos, ¡creamos experiencias! 
 
+👉 [**Mira las fotos del trabajo en vivo en el Punto Digital Jujuy aquí**](./comunidad.md)
+
+---
+
+## 🏛️ Alianzas e Instituciones
+Agradecemos el apoyo de los espacios que impulsan la tecnología en Jujuy:
+
+* **Punto Digital Jujuy**
+* **Faro del Saber**
+* **Municipalidad de San Salvador de Jujuy**
 
 ---
 
-## 🚀 ¿Cómo empezar?
-1. **Forma tu equipo** de 4 integrantes.
-2. **Explora los Kits** de historias en la carpeta `/kits`.
-3. **Elige un Espíritu** o leyenda para dar vida a tu juego.
-4. **¡Empieza a diseñar!**
-
----
-<img src="https://github.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/blob/main/logos/globo_animado.gif"
-      alt="globo animado"
-     width="160"
-     align="right"
-     style="margin-left:16px;">
+<img src="https://raw.githubusercontent.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/main/logos/globo_animado.gif" 
+     alt="globo animado" 
+     width="120" 
+     align="right">
 
 <p align="center">
   <i>"Diseñar un juego es diseñar una forma de ver el mundo."</i><br><br>
