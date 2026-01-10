@@ -79,7 +79,7 @@ Este recurso didáctico ha sido desarrollado por:
     </td>
     <td>
       <b>Contribución:</b><br>
-      Desarrollo conceptual de la guía <i>"De la vida real al video juego"</i> y materiales visuales para la capacitación 2026.
+      Desarrollo conceptual de la guía y materiales visuales para la capacitación 2026.
     </td>
   </tr>
 </table>
