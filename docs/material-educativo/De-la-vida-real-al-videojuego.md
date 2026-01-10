@@ -12,7 +12,7 @@ _Una guía sobre cómo transformar elementos cotidianos en mecánicas y assets d
 
 ### ✍️ Créditos del Material
 
-Este recurso didáctico ha sido desarrollado y cedido por:
+Este recurso didáctico ha sido desarrollado por:
 
 <table>
   <tr>
