@@ -7,14 +7,14 @@
 En estas imágenes pueden ver cómo los equipos empezaron a prototipar sus ideas y a usar las herramientas de IA y diseño.
 
 <p align="center">
-  <img src="./img/inicio.jpg" width="400" />
-  <img src="./img/proceso.jpg" width="400" />
+  <img src="./img/inicio.jpg" width="100%" />
+  <img src="./img/proceso.jpg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./img/concentracion.jpg" width="400" />
-  <img src="./img/creacion2.jpg" width="400" />
-  <img src="./img/fincon.jpg" width="810" />
+  <img src="./img/concentracion.jpg" width="100%" />
+  <img src="./img/creacion2.jpg" width="100%" />
+  <img src="./img/fincon.jpg" width="100%" />
 </p>
 
 ---
@@ -24,8 +24,8 @@ En estas imágenes pueden ver cómo los equipos empezaron a prototipar sus ideas
 Desde los primeros bocetos en papel hasta ver sus juegos funcionando en la pantalla.
 
 <p align="center">
-  <img src="./img/creacion3.jpg" width="810" />
-  <img src="./img/creacion4.jpg" width="810" />
+  <img src="./img/creacion3.jpg" width="100%" />
+  <img src="./img/creacion4.jpg" width="100%" />
   <br>
   <em>Los chicos trabajando en equipo en sus propuestas finales.</em>
 </p>
