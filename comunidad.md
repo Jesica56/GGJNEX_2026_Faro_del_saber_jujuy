@@ -33,3 +33,17 @@ Desde los primeros bocetos en papel hasta ver sus juegos funcionando en la panta
 ---
 
 > [!TIP] > **Punto Digital Jujuy:** Un espacio de encuentro, aprendizaje y creación de videojuegos para el futuro.
+
+---
+
+## 🤝 Agradecimientos Institucionales
+
+Queremos expresar nuestro sincero agradecimiento a las instituciones que hicieron posible la **Global Game Jam Next 2026** en la provincia, brindando el espacio y la conectividad necesaria para que los chicos puedan crear.
+
+| Institución                                | Rol                        | Ubicación             |
+| :----------------------------------------- | :------------------------- | :-------------------- |
+| **Punto Digital Jujuy**                    | Sede y Conectividad        | Jujuy, Argentina      |
+| **Municipalidad de San Salvador de Jujuy** | Apoyo Institucional        | San Salvador de Jujuy |
+| **Global Game Jam Next**                   | Organización Internacional | Evento Global         |
+
+> _"El trabajo conjunto entre tecnología y educación transforma el futuro de nuestros jóvenes."_
