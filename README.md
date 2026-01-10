@@ -25,9 +25,9 @@ Hemos preparado guías visuales y herramientas interactivas para facilitar tu tr
 
 | Sección | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **🤖 Guía de IA** | Cómo usar la IA como asistente creativo. | [👉 Ver Guía](./docs/como-usar-ia.md) |
-| **📝 Ficha de Trabajo** | Prompts de diseño narrativo y visual. | [👉 Ver Ficha](./docs/ficha-de-trabajo.md) |
-| **🎨 Arte Visual** | Proceso de creación de personajes y entornos. | [👉 Ver Arte](./docs/diseño-y-arte-visual.md) |
+| **🤖 Guía de IA** | Cómo usar la IA como asistente creativo. | 
+| **📝 Ficha de Trabajo** | Prompts de diseño narrativo y visual. | 
+| **🎨 Arte Visual** | Proceso de creación de personajes y entornos. | 
 
 
 ---
