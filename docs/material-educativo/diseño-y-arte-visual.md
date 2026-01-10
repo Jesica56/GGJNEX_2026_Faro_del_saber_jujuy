@@ -4,8 +4,6 @@ En esta sección exploramos el proceso creativo para darle identidad visual a nu
 
 ---
 
-## 🖼️ Guía Paso a Paso
-
 <p align="center">
   <img src="../../img/Diseño de arte visual-imágenes-0.jpg" width="800" alt="Paso 1 - Concepto inicial">
 </p>
@@ -40,8 +38,6 @@ En esta sección exploramos el proceso creativo para darle identidad visual a nu
 > [!TIP] > **Consejo de Arte:** Mantener la coherencia visual ayuda a que el jugador se sumerja mejor en el mundo que creaste.
 
 ---
-
-_Créditos: Material diseñado para la capacitación de alumnos GGJNext._
 
 ### ✍️ Créditos del Material
 
