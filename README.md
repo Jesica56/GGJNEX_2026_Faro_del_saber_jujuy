@@ -23,8 +23,8 @@ Nuestra misión es diseñar conceptos de videojuegos que utilicen **leyendas arg
 ## 📂 Acceso al Material Educativo
 Hemos preparado guías visuales y herramientas interactivas para facilitar tu trabajo:
 
-| Sección | Descripción | Enlace |
-| :--- | :--- | :--- |
+| Sección | Descripción | 
+| :--- | :--- |
 | **🤖 Guía de IA** | Cómo usar la IA como asistente creativo. | 
 | **📝 Ficha de Trabajo** | Prompts de diseño narrativo y visual. | 
 | **🎨 Arte Visual** | Proceso de creación de personajes y entornos. | 
@@ -50,7 +50,6 @@ Este material fue desarrollado por nuestro colaborador para enseñar las bases d
 >
 > 👉 **[ACCEDER A LOS RECURSOS DE CONSTRUCT 3](https://github.com/jorgelramosGAMEJAMQUIJANO/MATERIAL)**
 
----
 
 ---
 
@@ -91,6 +90,51 @@ Agradecemos el apoyo de los espacios que impulsan la tecnología en Jujuy:
 * **Municipalidad de San Salvador de Jujuy**
 
 ---
+
+## 👥 Equipo de Trabajo - Sede Jujuy
+El motor detrás de la **GGJNext Faro del Saber**. Un equipo dedicado a potenciar el talento joven de nuestra provincia.
+
+### 👑 Organización General
+<p align="center">
+  <a href="https://github.com/Jesica56">
+    <img src="https://github.com/Jesica56.png" width="120px;" alt="Jesica"/><br />
+    <sub><b>Jesica</b></sub>
+  </a><br />
+  <b>Coordinación y Logística</b>
+</p>
+
+### 🚀 Mentores y Guías Creativos
+*Encargados de acompañar a los equipos en el diseño narrativo, visual y técnico.*
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jorgelramosGAMEJAMQUIJANO">
+        <img src="https://github.com/jorgelramosGAMEJAMQUIJANO.png" width="90px;" alt="Jorge"/><br />
+        <sub><b>Jorge Ramos</b></sub>
+      </a><br />
+      🎮 <i>Mentor Construct 3</i>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Mentor+2&background=0D8ABC&color=fff" width="90px;" alt="Mentor 2"/><br />
+      <sub><b>Nombre Mentor 2</b></sub><br />
+      🎨 <i>Mentor de Arte</i>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Mentor+3&background=7289da&color=fff" width="90px;" alt="Mentor 3"/><br />
+      <sub><b>Nombre Mentor 3</b></sub><br />
+      ✍️ <i>Mentor Narrativo</i>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Mentor+4&background=43b581&color=fff" width="90px;" alt="Mentor 4"/><br />
+      <sub><b>Nombre Mentor 4</b></sub><br />
+      🤖 <i>Mentor de IA</i>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 <img src="https://raw.githubusercontent.com/Jesica56/GGJNEX_2026_Faro_del_saber_jujuy/main/logos/globo_animado.gif" 
      alt="globo animado" 
