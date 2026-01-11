@@ -99,8 +99,8 @@ El motor detrás de la **GGJNext Faro del Saber**. Un equipo dedicado a potencia
 ### 👑 Organización General
 <p align="center">
   <a href="https://github.com/asnramos">
-    <img src="https://avatars.githubusercontent.com/u/31027307?v=4" width="120px;" style="border-radius:50%;" alt="Adrián Ramos"/><br />
-    <sub><b>Adrián Ramos</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/31027307?v=4" width="120px;" style="border-radius:50%;" alt="Ariel Ramos"/><br />
+    <sub><b>Ariel Ramos</b></sub>
   </a><br />
   <b>Coordinador General - </b>
 </p>
