@@ -89,6 +89,8 @@ Agradecemos el apoyo de los espacios que impulsan la tecnología en Jujuy:
 * **Faro del Saber**
 * **Municipalidad de San Salvador de Jujuy**
 
+
+
 ---
 
 ## 👥 Equipo de Trabajo - Sede Jujuy
@@ -96,39 +98,46 @@ El motor detrás de la **GGJNext Faro del Saber**. Un equipo dedicado a potencia
 
 ### 👑 Organización General
 <p align="center">
-  <a href="https://github.com/Jesica56">
-    <img src="https://github.com/Jesica56.png" width="120px;" alt="Jesica"/><br />
-    <sub><b>Jesica</b></sub>
+  <a href="https://github.com/asnramos">
+    <img src="https://avatars.githubusercontent.com/u/31027307?v=4" width="120px;" style="border-radius:50%;" alt="Adrián Ramos"/><br />
+    <sub><b>Adrián Ramos</b></sub>
   </a><br />
-  <b>Coordinación y Logística</b>
+  <b>Coordinador General - </b>
 </p>
 
+---
 ### 🚀 Mentores y Guías Creativos
 *Encargados de acompañar a los equipos en el diseño narrativo, visual y técnico.*
 
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/Jesica56">
+        <img src="https://github.com/Jesica56.png" width="100px;" style="border-radius:50%;" alt="Jesica"/><br />
+        <sub><b>Jesica</b></sub>
+      </a><br />
+       <i>Mentora </i>
+    </td>
+    <td align="center">
       <a href="https://github.com/jorgelramosGAMEJAMQUIJANO">
-        <img src="https://github.com/jorgelramosGAMEJAMQUIJANO.png" width="90px;" alt="Jorge"/><br />
+        <img src="https://github.com/jorgelramosGAMEJAMQUIJANO.png" width="100px;" style="border-radius:50%;" alt="Jorge Ramos"/><br />
         <sub><b>Jorge Ramos</b></sub>
       </a><br />
-      🎮 <i>Mentor Construct 3</i>
+       <i>Mentor</i>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Mentor+2&background=0D8ABC&color=fff" width="90px;" alt="Mentor 2"/><br />
-      <sub><b>Nombre Mentor 2</b></sub><br />
-      🎨 <i>Mentor de Arte</i>
+      <a href="https://github.com/MatiasMunozLab">
+        <img src="https://avatars.githubusercontent.com/u/116385082?v=4" width="100px;" style="border-radius:50%;" alt="Matias Muñoz"/><br />
+        <sub><b>Matias Muñoz</b></sub>
+      </a><br />
+       <i>Mentor</i>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Mentor+3&background=7289da&color=fff" width="90px;" alt="Mentor 3"/><br />
-      <sub><b>Nombre Mentor 3</b></sub><br />
-      ✍️ <i>Mentor Narrativo</i>
-    </td>
-    <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Mentor+4&background=43b581&color=fff" width="90px;" alt="Mentor 4"/><br />
-      <sub><b>Nombre Mentor 4</b></sub><br />
-      🤖 <i>Mentor de IA</i>
+      <a href="https://github.com/OsvaldoAjalla">
+        <img src="https://avatars.githubusercontent.com/u/227925279?v=4" width="100px;" style="border-radius:50%;" alt="Osvaldo Ajalla"/><br />
+        <sub><b>Osvaldo Ajalla</b></sub>
+      </a><br />
+       <i>Mentor</i>
     </td>
   </tr>
 </table>
