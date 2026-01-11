@@ -29,6 +29,28 @@ Hemos preparado guías visuales y herramientas interactivas para facilitar tu tr
 | **📝 Ficha de Trabajo** | Prompts de diseño narrativo y visual. | 
 | **🎨 Arte Visual** | Proceso de creación de personajes y entornos. | 
 
+---
+
+## 🛠️ Recursos y Proyectos Destacados
+Además de las guías, contamos con material técnico desarrollado en colaboración para facilitar el aprendizaje en el motor de videojuegos.
+
+### 🎮 Proyecto Base: Mario Plataforma (Construct 3)
+Este material fue desarrollado por nuestro colaborador para enseñar las bases del diseño de niveles y mecánicas 2D.
+
+<p align="center">
+  <a href="https://github.com/jorgelramosGAMEJAMQUIJANO/MATERIAL">
+    <img src="https://img.shields.io/badge/MOTOR-CONSTRUCT_3-orange?style=for-the-badge&logo=construct3" alt="Construct 3">
+    <img src="https://img.shields.io/badge/CONTENIDO-ASSETS_&_LÓGICA-blue?style=for-the-badge" alt="Contenido">
+  </a>
+</p>
+
+> [!TIP]
+> **¿Qué vas a encontrar aquí?**
+> En el repositorio de **Jorge Ramos**, podrás descargar los personajes, enemigos y el archivo fuente para abrir directamente en Construct 3.
+>
+> 👉 **[ACCEDER A LOS RECURSOS DE CONSTRUCT 3](https://github.com/jorgelramosGAMEJAMQUIJANO/MATERIAL)**
+
+---
 
 ---
 
